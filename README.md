@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm Nour Ghouila</h1>
+<h1 align="center">Nour Ghouila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=600&lines=Software+Engineering+student+%40MedTech;IT+graduate+%C2%B7+Full-stack+developer;AI+%C2%B7+NLP+%C2%B7+Data+Science" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=57A773&center=true&vCenter=true&width=800&lines=Ten+years+of+oud+taught+me+to+practice+until+it+sounds+right.;I+write+code+the+same+way." alt="Ten years of oud taught me to practice until it sounds right. I write code the same way."/>
 </p>
 
 <p align="center">
-  Software Engineering student at MedTech · Bachelor's degree from ISET Charguia<br/>
-  NVIDIA-certified Data Scientist track at GOMYCODE · Building VibeMatch, a hybrid music recommender (in progress) · Contributing to SMUHub (team project)
+  IT bachelor's with highest honors (ISET Charguia), now a software engineering student at MedTech.<br/>
+  I build AI tools: skill analysis at Wevioo, and now VibeMatch, because my playlists kept repeating themselves.
+</p>
+
+<p align="center">
+  <b>Currently looking for an internship.</b>
 </p>
 
 <p align="center">
@@ -20,12 +24,12 @@
 <div align="center">
 
 | Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**SkillEvolve**](https://github.com/SkillEvolve) | Final-year internship at Wevioo: analyzes GitHub contributions with custom-trained AI and NLP models to evaluate technical skills and recommend personalized learning paths | Python · NLP · GitHub API |
-| [**VibeMatch**](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based filtering, collaborative filtering, mood search with Sentence-BERT, CNN genre detection | Python · Jupyter · scikit-learn · Sentence-BERT |
-| [**LocalCMD AI**](https://github.com/LocalCMD-AI-Project) | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
-| [**SocialDevTeam**](https://github.com/SocialDevWeb) | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | GitHub API · AI assistant |
-| [**SMUHub**](https://github.com/Kernel-Hunter/SMUhub) *(team project)* | The private home of SMU students | TypeScript · React · Express · MongoDB |
+|---|---|---|
+| [SkillEvolve](https://github.com/SkillEvolve) | Final-year internship at Wevioo: analyzes GitHub contributions with custom-trained AI and NLP models to evaluate technical skills and recommend personalized learning paths | TypeScript · Angular · NestJS · FastAPI · NLP |
+| [VibeMatch](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based filtering, collaborative filtering, mood search with Sentence-BERT, CNN genre detection | Python · scikit-learn · Sentence-BERT · Streamlit |
+| [LocalCMD AI](https://github.com/LocalCMD-AI-Project) | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
+| [SocialDevTeam](https://github.com/SocialDevWeb) | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | React · Express · GitHub API |
+| [SMUHub](https://github.com/Kernel-Hunter/SMUhub) *(team project)* | The private home of SMU students | TypeScript · React · Express · MongoDB |
 
 </div>
 
@@ -44,10 +48,10 @@
 <h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,js,angular,react,nestjs,spring,fastapi" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,angular,react,nestjs,express,fastapi" alt="Languages and frameworks"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,postgres,mysql,mongodb" alt="AI and databases"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,postgres,mysql,mongodb,firebase" alt="AI and databases"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="Tools"/>
