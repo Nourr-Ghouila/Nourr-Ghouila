@@ -21,10 +21,10 @@
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| **SkillEvolve** | Final-year internship at Wevioo: analyzes GitHub contributions with custom-trained AI and NLP models to evaluate technical skills and recommend personalized learning paths | Python · NLP · GitHub API |
+| [**SkillEvolve**](https://github.com/SkillEvolve) | Final-year internship at Wevioo: analyzes GitHub contributions with custom-trained AI and NLP models to evaluate technical skills and recommend personalized learning paths | Python · NLP · GitHub API |
 | [**VibeMatch**](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based filtering, collaborative filtering, mood search with Sentence-BERT, CNN genre detection | Python · Jupyter · scikit-learn · Sentence-BERT |
-| **LocalCMD AI** | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
-| **SocialDevTeam** | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | GitHub API · AI assistant |
+| [**LocalCMD AI**](https://github.com/LocalCMD-AI-Project) | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
+| [**SocialDevTeam**](https://github.com/SocialDevWeb) | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | GitHub API · AI assistant |
 | [**SMUHub**](https://github.com/Kernel-Hunter/SMUhub) *(team project)* | The private home of SMU students | TypeScript · React · Express · MongoDB |
 
 </div>
@@ -66,20 +66,15 @@
 
 <p align="center">
   NVIDIA Fundamentals of Deep Learning — NVIDIA Deep Learning Institute (2026)<br/>
-  Data Scientist Bootcamp — GOMYCODE (2026)
-</p>
-<p align="center">
-  <sub><i>Also: Advanced Web Training (React) – CrocoCoder · Introduction to Data Science – Cisco · Introduction to Big Data Tools – Simplilearn</i></sub>
+  Data Scientist Bootcamp — GOMYCODE (2026)<br/>
+  Advanced Web Training (React) — CrocoCoder (2024)
 </p>
 
 <br/>
 
-<h3 align="center">My contributions, eaten by a snake</h3>
+<h3 align="center">My coding rhythm</h3>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nourr-Ghouila/Nourr-Ghouila/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Nourr-Ghouila/Nourr-Ghouila/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Nourr-Ghouila/Nourr-Ghouila/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation"/>
 </p>
