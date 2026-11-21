@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Currently looking for an internship.</b>
+  <img src="assets/status-dot.svg" width="14" height="14" alt=""/>&nbsp;<b>Currently looking for an internship or a part-time job.</b>
 </p>
 
 <p align="center">
@@ -69,9 +69,9 @@
 <h3 align="center">Certifications</h3>
 
 <p align="center">
-  NVIDIA Fundamentals of Deep Learning — NVIDIA Deep Learning Institute (2026)<br/>
-  Data Scientist Bootcamp — GOMYCODE (2026)<br/>
-  Advanced Web Training (React) — CrocoCoder (2024)
+  NVIDIA Fundamentals of Deep Learning - NVIDIA Deep Learning Institute (2026)<br/>
+  Data Scientist Bootcamp - GOMYCODE (2026)<br/>
+  Advanced Web Training (React) - CrocoCoder (2024)
 </p>
 
 <br/>
