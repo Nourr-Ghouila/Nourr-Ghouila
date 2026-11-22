@@ -4,10 +4,10 @@
     text { font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
     .text { font-size: 13px; fill: #ddd5cb; }
     .sub { font-size: 12px; fill: #9a9087; }
-    .label { font-size: 10px; font-weight: 700; letter-spacing: 2px; fill: #c8913a; }
+    .label { font-size: 10px; font-weight: 700; letter-spacing: 2px; fill: #f4a7c3; }
     .rule { stroke: #3a332c; stroke-width: 1; }
-    .dot { fill: #c8913a; }
-    .verb { font-size: 12px; font-weight: 700; fill: #c8913a; }
+    .dot { fill: #f4a7c3; }
+    .verb { font-size: 12px; font-weight: 700; fill: #f4a7c3; }
     .keyword { font-size: 10px; fill: #6e7681; }
   </style>
   <!-- train -->
