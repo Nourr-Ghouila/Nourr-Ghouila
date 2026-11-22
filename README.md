@@ -27,7 +27,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [SkillEvolve](https://github.com/SkillEvolve) | Final-year internship at Wevioo: evaluates developers' skills from their GitHub activity with NLP models and suggests learning paths · [Demo video](https://drive.google.com/file/d/1UCBvuf-SZC02Ga1zZ5lAacH6TDsl20ro/view?usp=sharing) | TypeScript · Angular · NestJS · FastAPI · Kafka · Microservices · MongoDB · Firebase · NLP |
-| [VibeMatch](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based filtering, collaborative filtering, mood search with Sentence-BERT, CNN genre detection | Python · scikit-learn · Sentence-BERT · Streamlit |
+| [VibeMatch](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based and collaborative filtering (ALS), mood search with Sentence-BERT + FAISS, and deep learning genre detection (CNN on mel-spectrograms with transfer learning) | Python · PyTorch · librosa · scikit-learn · Sentence-BERT · FAISS · Streamlit |
 | [LocalCMD AI](https://github.com/LocalCMD-AI-Project) | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
 | [SocialDevTeam](https://github.com/SocialDevWeb) | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | React · Express · GitHub API |
 | [SMUHub](https://github.com/Kernel-Hunter/SMUhub) *(in progress)* | Platform for SMU students to share course notes and past exams, get help from peers in a Q&A space, and follow campus news and deadlines | TypeScript · React · Express · MongoDB |
