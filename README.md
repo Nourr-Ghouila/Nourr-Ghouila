@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  IT bachelor's with highest honors (ISET Charguia), now a software engineering student at MedTech.<br/>
-  I build AI tools: skill analysis at Wevioo, and now VibeMatch, because my playlists kept repeating themselves.
+  Software engineering student at MedTech, after an IT bachelor's at ISET Charguia.<br/>
+  Mostly working on AI and full-stack projects.
 </p>
 
 <p align="center">
-  <img src="assets/status-dot.svg" width="14" height="14" alt=""/>&nbsp;<b>Currently looking for an internship or a part-time job.</b>
+  <img src="assets/status-dot.svg" width="14" height="14" alt=""/>&nbsp;<b>Looking for an AI or full-stack internship, or a part-time role.</b>
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [SkillEvolve](https://github.com/SkillEvolve) | Final-year internship at Wevioo: analyzes GitHub contributions with custom-trained AI and NLP models to evaluate technical skills and recommend personalized learning paths | TypeScript · Angular · NestJS · FastAPI · NLP |
+| [SkillEvolve](https://github.com/SkillEvolve) | Final-year internship at Wevioo: evaluates developers' skills from their GitHub activity with NLP models and suggests learning paths · [Demo video](https://drive.google.com/file/d/1UCBvuf-SZC02Ga1zZ5lAacH6TDsl20ro/view?usp=sharing) | TypeScript · Angular · NestJS · FastAPI · Firebase · NLP |
 | [VibeMatch](https://github.com/Nourr-Ghouila/vibematch) *(in progress)* | Hybrid music recommender: content-based filtering, collaborative filtering, mood search with Sentence-BERT, CNN genre detection | Python · scikit-learn · Sentence-BERT · Streamlit |
 | [LocalCMD AI](https://github.com/LocalCMD-AI-Project) | Local AI assistant that turns natural language into safe system commands | Python · Ollama |
 | [SocialDevTeam](https://github.com/SocialDevWeb) | Collaborative social network for developers with GitHub integrations, gamification and an AI assistant | React · Express · GitHub API |
-| [SMUHub](https://github.com/Kernel-Hunter/SMUhub) *(team project)* | The private home of SMU students | TypeScript · React · Express · MongoDB |
+| [SMUHub](https://github.com/Kernel-Hunter/SMUhub) *(in progress)* | Platform for SMU students to share course notes and past exams, get help from peers in a Q&A space, and follow campus news and deadlines | TypeScript · React · Express · MongoDB |
 
 </div>
 
@@ -38,9 +38,9 @@
 <h3 align="center">Organizations</h3>
 
 <p align="center">
-  <a href="https://github.com/SkillEvolve"><img src="https://github.com/SkillEvolve.png?size=50" width="50" height="50" alt="SkillEvolve" style="border-radius:50%"/></a>&nbsp;
-  <a href="https://github.com/LocalCMD-AI-Project"><img src="https://github.com/LocalCMD-AI-Project.png?size=50" width="50" height="50" alt="LocalCMD-AI-Project" style="border-radius:50%"/></a>&nbsp;
-  <a href="https://github.com/SocialDevWeb"><img src="https://github.com/SocialDevWeb.png?size=50" width="50" height="50" alt="SocialDevWeb" style="border-radius:50%"/></a>
+  <a href="https://github.com/SkillEvolve"><img src="https://github.com/SkillEvolve.png?size=50" width="50" height="50" alt="SkillEvolve"/></a>&nbsp;
+  <a href="https://github.com/LocalCMD-AI-Project"><img src="https://github.com/LocalCMD-AI-Project.png?size=50" width="50" height="50" alt="LocalCMD-AI-Project"/></a>&nbsp;
+  <a href="https://github.com/SocialDevWeb"><img src="https://github.com/SocialDevWeb.png?size=50" width="50" height="50" alt="SocialDevWeb"/></a>
 </p>
 
 <br/>
