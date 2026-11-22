@@ -1,7 +1,7 @@
 <h1 align="center">Nour Ghouila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=F4A7C3&center=true&vCenter=true&width=800&lines=Powered+by+coffee+%26+music%2C+curiosity+and+stubbornness.;I'm+the+friend+who's+still+debugging+at+2am%2C+and+enjoying+it." alt="Powered by coffee &amp; music, curiosity and stubbornness. I'm the friend who's still debugging at 2am, and enjoying it."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=2000&color=F4A7C3&center=true&vCenter=true&width=800&lines=Powered+by+coffee+%26+music%2C+curiosity+and+stubbornness.;I'm+the+friend+who's+still+debugging+at+2am%2C+and+enjoying+it." alt="Powered by coffee &amp; music, curiosity and stubbornness. I'm the friend who's still debugging at 2am, and enjoying it."/>
 </p>
 
 <p align="center">
