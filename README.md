@@ -49,20 +49,10 @@
 <h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,angular,react,nestjs,express,fastapi" alt="Languages and frameworks"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,postgres,mongodb,firebase" alt="AI and databases"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kafka,git,linux" alt="Tools"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-30363d?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-30363d?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Streamlit-30363d?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Ollama-30363d?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"/>
+    <img src="assets/stack.svg" width="800" alt="Tech stack, grouped by what each tool is for. Train (ML): Python, PyTorch, TensorFlow, scikit-learn and librosa. Analyze (data): pandas, NumPy, Matplotlib, Plotly and Tableau. Understand (NLP): spaCy, Sentence-BERT, Hugging Face, FAISS and Ollama. Serve (backend): NestJS, FastAPI, Express, Kafka and the GitHub API. Store (databases): MongoDB, PostgreSQL, MySQL, SQLite and Firebase. Build (frontend): JavaScript, TypeScript, Angular, React and Streamlit. Ship (devops): Docker, Linux and Git."/>
+  </picture>
 </p>
 
 <br/>
@@ -70,9 +60,10 @@
 <h3 align="center">Certifications</h3>
 
 <p align="center">
-  NVIDIA Fundamentals of Deep Learning - NVIDIA Deep Learning Institute (2026)<br/>
-  Data Scientist Bootcamp - GOMYCODE (2026)<br/>
-  Advanced Web Training (React) - CrocoCoder (2024)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg"/>
+    <img src="assets/certs.svg" width="800" alt="Certifications, in chronological order: Advanced Web Training (React) from CrocoCoder, 2024. Data Scientist Bootcamp from GOMYCODE, 2026. Fundamentals of Deep Learning from the NVIDIA Deep Learning Institute, 2026."/>
+  </picture>
 </p>
 
 <br/>

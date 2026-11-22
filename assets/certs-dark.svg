@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 116" width="800" height="116" role="img" aria-labelledby="t">
+  <title id="t">Certifications</title>
+  <style>
+    text { font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .text { font-size: 13px; fill: #ddd5cb; }
+    .sub { font-size: 12px; fill: #9a9087; }
+    .label { font-size: 10px; font-weight: 700; letter-spacing: 2px; fill: #c8913a; }
+    .rule { stroke: #3a332c; stroke-width: 1; }
+    .dot { fill: #c8913a; }
+  </style>
+  <line class="rule" x1="8" y1="44" x2="792" y2="44"/>
+  <!-- 2024 -->
+  <text class="label" x="133.3" y="30" text-anchor="middle">2024</text>
+  <circle class="dot" cx="133.3" cy="44" r="4.5"/>
+  <text class="text" x="133.3" y="71" text-anchor="middle">Advanced Web Training (React)</text>
+  <text class="sub" x="133.3" y="90" text-anchor="middle">CrocoCoder</text>
+  <!-- 2026 -->
+  <text class="label" x="400.0" y="30" text-anchor="middle">2026</text>
+  <circle class="dot" cx="400.0" cy="44" r="4.5"/>
+  <text class="text" x="400.0" y="71" text-anchor="middle">Data Scientist Bootcamp</text>
+  <text class="sub" x="400.0" y="90" text-anchor="middle">GOMYCODE</text>
+  <!-- 2026 -->
+  <text class="label" x="666.7" y="30" text-anchor="middle">2026</text>
+  <circle class="dot" cx="666.7" cy="44" r="4.5"/>
+  <text class="text" x="666.7" y="71" text-anchor="middle">Fundamentals of Deep Learning</text>
+  <text class="sub" x="666.7" y="90" text-anchor="middle">NVIDIA Deep Learning Institute</text>
+</svg>
