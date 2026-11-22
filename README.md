@@ -1,7 +1,8 @@
 <h1 align="center">Nour Ghouila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=57A773&center=true&vCenter=true&width=800&lines=Ten+years+of+oud+taught+me+to+practice+until+it+sounds+right.;I+write+code+the+same+way." alt="Ten years of oud taught me to practice until it sounds right. I write code the same way."/>
+  <img src="assets/oud.svg" width="36" height="36" alt="Oud"/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=C8913A&center=true&vCenter=true&width=800&lines=Ten+years+of+oud+taught+me+to+practice+until+it+sounds+right.;I+write+code+the+same+way." alt="Ten years of oud taught me to practice until it sounds right. I write code the same way."/>
 </p>
 
 <p align="center">
@@ -48,13 +49,13 @@
 <h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,angular,react,nestjs,express,fastapi" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=ts,py,angular,react,nestjs,express,fastapi" alt="Languages and frameworks"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,postgres,mysql,mongodb,firebase" alt="AI and databases"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,postgres,mongodb,firebase" alt="AI and databases"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="Tools"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/pandas-30363d?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
